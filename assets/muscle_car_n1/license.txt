@@ -1,0 +1,11 @@
+Model Information:
+* title:	Muscle car n°1
+* source:	https://sketchfab.com/3d-models/muscle-car-n1-28f4c220763242cf9cd41206f703953c
+* author:	Jonathan Geoffroy (https://sketchfab.com/jonathangeoffroy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Muscle car n°1" (https://sketchfab.com/3d-models/muscle-car-n1-28f4c220763242cf9cd41206f703953c) by Jonathan Geoffroy (https://sketchfab.com/jonathangeoffroy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
