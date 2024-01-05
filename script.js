@@ -1,7 +1,7 @@
 
 window.onload = () => {
     const button = document.querySelector('button[data-action="change"]');
-    button.innerText = 'X';
+    button.innerText = 'choix';
 
     let places = staticLoadPlaces();
     renderPlaces(places);
@@ -28,7 +28,7 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/baby_dragon/scene.glb',
+        url: './assets/muscle_car_n1/scene.glb',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
         info: 'baby_dragon, Lv. 80, HP 100/100',
