@@ -28,10 +28,10 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/muscle_car_n1/scene.glb',
+        url: './assets/muscle_car_n1/scene.gltf',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
-        info: 'baby_dragon, Lv. 80, HP 100/100',
+        info: 'muscle_car_n1, Lv. 80, HP 100/100',
     },
     {
         url: './assets/dragonite/scene.gltf',
