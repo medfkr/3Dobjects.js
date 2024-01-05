@@ -28,10 +28,10 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/toy_robot_animated_-_lowpoly/scene.gltf',
+        url: './assets/baby_dragon/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'toy_robot, Lv. 80, HP 100/100',
+        info: 'baby_dragon, Lv. 80, HP 100/100',
     },
     {
         url: './assets/dragonite/scene.gltf',
