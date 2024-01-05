@@ -29,7 +29,7 @@ var models = [
     },
     {
         url: './assets/baby_dragon/scene.gltf',
-        scale: '0.2 0.2 0.2',
+        scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
         info: 'baby_dragon, Lv. 80, HP 100/100',
     },
