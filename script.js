@@ -22,9 +22,9 @@ function staticLoadPlaces() {
 
 var models = [
     {
-        url: './assets/magnemite/scene.gltf',
+        url: './assets/baby_dragon/scene.gltf',
         scale: '0.59 0.59 0.59',
-        info: 'Magnemite, Lv. 5, HP 10/10',
+        info: 'baby, Lv. 5, HP 10/10',
         rotation: '0 180 0',
     },
     {
